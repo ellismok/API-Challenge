@@ -130,4 +130,6 @@ dmypy.json
 
 # Ignore files that may include API keys
 config.py
+api_keys.py
+
 
