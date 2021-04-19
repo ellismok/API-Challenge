@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # ignore config.py document 
-config.py
+.config.py
